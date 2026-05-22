@@ -4,7 +4,7 @@
 # Controls
 
 *<- [LEFT/RIGHT arrows] ->* Move piece left/right
-* [UP/DOWN arrows] * Rotate piece
+*[UP/DOWN arrows]* Rotate piece
 *[spacebar]* Drop piece down
 *D* Drop piece by one line
 *P* Pause game
