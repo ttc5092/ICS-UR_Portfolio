@@ -1,5 +1,5 @@
 
-# TETRIS V1.0.0
+# TETRIS GAME PROJECT
 
 # Introduction
 
@@ -47,6 +47,8 @@ Clearing a row produces a visual effect (as required) : the screen flashes when 
 Due to the nature of TETRIS and its controls, having two shapes falling at a time would be impractical. The game's interactive events are the buttons on the GUI popups and key press events for the game controls. 
 The game contains an abstract class (BasicEnt) used as a template for the Shape object. The ScoreManager allows users to input a name to save scores to a file, however it does not require a password to function. I modified the original ScoreManager clas to make it functional.
 With all of these added features, the game is fully playable and meets the requirements of the GUI project. 
+
+ONLINE VERSION: https://codehs.com/sandbox/graydinosaur4784/tetris/run 
 
 
 
