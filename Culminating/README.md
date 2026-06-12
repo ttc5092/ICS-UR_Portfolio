@@ -5,6 +5,15 @@
 When the code is completed, set MiniMario.java as the MAIN file and compile the repository or run it through CodeHS. A CodeHS link will be provided when the code is in a working state.
 Once the program loads, there should be a Java Swing window with the title screen. Enter a username then press down arrow to start the game from level 1-1.
 
+**CONTORLS**
+Left/right arrow : Walk
+Up arrow: Jump
+Down arrow: Pause game
+Space: Run faster
+"S" key: Quick save: Press during gameplay to save game, press when paused to load from save file.
+
+Planned: Add controls for projectile powerups (fire flower TBA), replace pause key with "P", and use Down Arrow to enter pipes or doors.
+
 **Game Overview**
 
 This game is a copy of the popular platformer game Super Mario Bros. Your goal is to get to the end of the level while jumping over obstacles, collecting coins, and avoiding various enemies. 
@@ -35,6 +44,7 @@ This project aims to recreate the experience of yet another classic video game i
  - Add different building blocks for levels (stone, mushroom, desert sand, etc.)
  - Add different types of level backgrounds (clouds, underground, Bowser's Castle)
  - Add better powerups (Fire Flower, Ice Flower, Tanuki Suit)
+ - Add pipes and doors to new areas within the levels
  - Lastly, improve optimization (the game lags a bit, may or may not be due to CodeHS servers)
 
 
