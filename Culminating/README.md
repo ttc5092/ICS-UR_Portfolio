@@ -25,6 +25,18 @@ This project aims to recreate the experience of yet another classic video game i
  - Save file system
  - Game loads levels from files, allowing for easy level creation
 
+**Planned Updates**
+
+ - More levels and worlds (up to Level 8-8)
+ - More enemies (Piranha Plants, Thwomps, Buzzy Beetles, etc.)
+ - Update existing enemy AI/logic and add turtle shell kicking feature
+ - Add music to levels
+ - Add "Tall Mario" sprites and animations (could be done, but not completed due to time constraints)
+ - Add different building blocks for levels (stone, mushroom, desert sand, etc.)
+ - Add different types of level backgrounds (clouds, underground, Bowser's Castle)
+ - Add better powerups (Fire Flower, Ice Flower, Tanuki Suit)
+ - Lastly, improve optimization (the game lags a bit, may or may not be due to CodeHS servers)
+
 
 https://codehs.com/sandbox/graydinosaur4784/mario (Online CODEHS version)
 
